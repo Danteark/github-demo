@@ -1,19 +1,8 @@
-#add 
 def add(x,y):
-    return x+y
-#sub
+    pass
 def subtract(x,y):
-    return x-y
-#mult
+    pass
 def multiply(x,y):
-    return x*y		#on Bug456
-#div
+    pass
 def divide(x,y):
-    if y=0:
-    	return DIVIDE_BY_ZERO
-    else
-    	return x/y
-
-#square implementation
-def square(x)
-	pass
+    pass
